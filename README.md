@@ -1,4 +1,4 @@
-# 🔥 Bushfire Warning Classification — Perth, Western Australia
+# Bushfire Warning Classification — Perth, Western Australia
 
 > Multi-class machine learning untuk memprediksi **tingkat peringatan bushfire** (Advice · Watch and Act · Emergency Warning) berdasarkan kondisi meteorologi, vegetasi, drought, dan topografi di Perth, Western Australia.
 >
